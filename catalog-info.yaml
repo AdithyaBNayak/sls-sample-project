@@ -6,14 +6,13 @@ metadata:
   labels:
     system: web-apps
   links:
-    - url: https://git-codecommit.ap-southeast-2.amazonaws.com/v1/repos/sls-cicd-repo/catalog-info.yaml
+    - url: https://github.com/AdithyaBNayak/sls-cicd-demo/
       title: Serverless
       icon: code
   tags:
     - node-js
   annotations:
-    aws.amazon.com/aws-codepipeline: arn:aws:codepipeline:ap-southeast-2:146878614238:sls-cicd-pipeline
-    # aws.amazon.com/aws-codepipeline: arn:aws:codepipeline:us-west-2:111111111:example-pipeline
+    aws.amazon.com/aws-codepipeline: arn:aws:codepipeline:ap-south-1:854132807883:devexCodePipelineSample
 spec:
   type: service
   lifecycle: experimental
