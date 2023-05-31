@@ -13,6 +13,7 @@ metadata:
     - node-js
   annotations:
     aws.amazon.com/aws-codepipeline: arn:aws:codepipeline:ap-south-1:854132807883:devexCodePipelineSample
+    aws.amazon.com/aws-codebuild-project: arn:aws:codebuild:ap-south-1:854132807883:project/devexCodeBuildForSampleApp
 spec:
   type: service
   lifecycle: experimental
