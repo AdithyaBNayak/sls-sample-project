@@ -6,7 +6,7 @@ module.exports.logger = async (event, context) => {
     statusCode: 200,
     body: JSON.stringify({
       message: 'Serverless CI/CD Demo',
-      version: "v6.0",
+      version: "v7.0",
       timestamp: moment().unix()
     })
   };
