@@ -1,13 +1,13 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: serverless-sample-app
-  description: Sample serverless app
+  name: serverless-sample-project
+  description: Sample serverless Project
   labels:
     system: web-apps
   links:
     - url: https://github.com/AdithyaBNayak/sls-cicd-demo/
-      title: Serverless
+      title: Serverless-Project
       icon: code
   tags:
     - node-js
