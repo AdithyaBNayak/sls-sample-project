@@ -3,7 +3,7 @@ service: sls-cicd
 
 provider:
   name: aws
-  runtime: nodejs18.x
+  runtime: nodejs14.x
   stage: dev
   region: ap-southeast-2
   memorySize: 128
