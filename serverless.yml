@@ -5,12 +5,12 @@ provider:
   name: aws
   runtime: nodejs14.x
   stage: dev
-  region: ap-southeast-2
+  region: ap-south-1
   memorySize: 128
   timeout: 3
 
 functions:
-  logger:
+  devexSampleLambda:
     handler: handler.logger
     events:
       - http:
