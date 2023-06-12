@@ -16,3 +16,8 @@ functions:
       - http:
           path: message
           method: get
+    tags:
+      name: P44_Lambda
+      pid: P44
+      owner: Adithya Bhairanje
+     
