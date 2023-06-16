@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: serverless-sample-project
-  description: Sample serverless Project
+  name: serverless-project
+  description: Serverless Project with AWS Lambda and Code Services
   labels:
     system: web-apps
   links:
