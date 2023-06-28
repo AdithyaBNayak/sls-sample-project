@@ -18,6 +18,7 @@ metadata:
     aws.com/lambda-function-name: sls-cicd-dev-devexSampleLambda
     aws.com/lambda-region: ap-south-1
     azure.com/microsoft-web-sites: devex
+    azure.com/tag-selector: pid/p44
     
 spec:
   type: service
