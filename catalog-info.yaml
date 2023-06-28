@@ -17,11 +17,10 @@ metadata:
     github.com/project-slug: 'AdithyaBNayak/sls-cicd-demo'
     aws.com/lambda-function-name: sls-cicd-dev-devexSampleLambda
     aws.com/lambda-region: ap-south-1
-    owner: user:Adithya.Bhairanje
     azure.com/microsoft-web-sites: devex
     azure.com/tag-selector: pid/p44
     
 spec:
   type: service
   lifecycle: experimental
-  owner: Adithya.Bhairanje
+  owner: user:adithya.bhairanje
