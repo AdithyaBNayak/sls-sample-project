@@ -11,6 +11,7 @@ metadata:
       icon: code
   tags:
     - node-js
+    - aws
     - applicationtype-serverlessapplication
   annotations:
     aws.amazon.com/aws-codepipeline: arn:aws:codepipeline:ap-south-1:854132807883:devexCodePipelineSample
